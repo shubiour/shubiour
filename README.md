@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubiour
 - 👀 I’m interested in Software/Mobile App development
-- 🌱 I’m currently learning Flutter & dart
+- 🌱 I’m currently learning Backend web techologies
 - 💞️ I’m looking to collaborate on IOS or Android App development projects
 - 📫 How to reach me sv95.shuvo@gmail.com drop me an email
 
