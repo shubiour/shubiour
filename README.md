@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubiour
-- 👀 I’m interested in Software/Mobile App development
-- 🌱 I’m currently learning Backend web techologies
+- 👀 I’m interested in Software/Mobile App Development (VueJS, Futter)
+- 🌱 I’m currently learning React
 - 📫 How to reach me sv95.shuvo@gmail.com drop me an email
 
 <!---
